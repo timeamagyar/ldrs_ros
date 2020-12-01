@@ -1,0 +1,9 @@
+cmake-build-debug/
+.idea/
+ldls/
+bags/
+.ipynb_checkpoints
+backups/
+models/
+*.pyc
+__pycache__
