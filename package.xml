@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>rsls</name>
+  <name>ldrs</name>
   <version>1.0.0</version>
-  <description>LDLS ROS adapted to a RealSense D435 Stereo Camera</description>
+  <description>LDLS ROS package adapted to a RealSense D435 Stereo Camera</description>
 
   <maintainer email="timea.magyar@mail.com">Timea Magyar</maintainer>
 
