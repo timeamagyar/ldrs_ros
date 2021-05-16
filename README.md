@@ -1,4 +1,4 @@
-## LDLS ROS Package
+## ROS package for semantic point cloud segmentation
 
 ROS package for the semantic segmentation of stereo point clouds. Modified and forked from: https://github.com/brian-h-wang/ldls_ros.
 Currently, this code only supports offline segmentation of point clouds. It reads time synchronized point clouds and Mask-RCNN segmentation masks of reference images from an input rosbag, and then writes segmented point clouds to an output rosbag.
